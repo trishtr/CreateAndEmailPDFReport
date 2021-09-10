@@ -58,7 +58,7 @@ public class BaseClass {
 		
 		public static void sendPDFReportByGMail() {
 			final String username = "reonatr123@gmail.com";
-	 		final String password = "Aa12345678Bb";
+	 		final String password = "password";
 	 			 	 				
 			Properties props = new Properties();
 					
